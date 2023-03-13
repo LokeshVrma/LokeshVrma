@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LokeshVrma
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence and Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 Mail me @lokeshv613@gmail.com
