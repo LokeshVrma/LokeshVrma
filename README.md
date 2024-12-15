@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @LokeshVrma
-- 👀 I’m interested in Artificial Intelligence and Web Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Open source projects
-- 📫 Mail me @lokeshv613@gmail.com
-- verus wallet: RMcwUvNQepYKmZjJnMpz6YGMkov5tNmAvh
-<!---
-LokeshVrma/LokeshVrma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Lokesh Verma!  
+
+Hi there! I’m **Lokesh Verma**, a passionate software developer from **India**.  
+I specialize in creating dynamic web applications using modern technologies, with experience in **MERN stack development**, **API integration**, and **database management**.  
+
+---
+
+## 🛠️ Skills  
+
+- **Languages:** Python, C++, JavaScript  
+- **Front-End:** HTML, CSS, React.js, Bootstrap  
+- **Back-End:** Node.js, Express.js, REST APIs  
+- **Databases:** MongoDB, MySQL  
+
+---
+
+## 📚 Projects  
+
+- **ClassMate:** A MERN stack app for study planning, note-sharing, and forums.  
+- **CampusJunction:** A platform for students to buy/sell goods and hire tutors.  
+
+---
+
+## 📫 Connect with Me  
+
+📧 [lokeshv613@gmail.com](mailto:lokeshv613@gmail.com)  
+📱 +91 7807369778  
