@@ -24,4 +24,3 @@ I specialize in creating dynamic web applications using modern technologies, wit
 ## 📫 Connect with Me  
 
 📧 [lokeshv613@gmail.com](mailto:lokeshv613@gmail.com)  
-📱 +91 7807369778  
