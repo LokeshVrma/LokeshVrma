@@ -1,26 +1,18 @@
-# 👋 Hi, I'm Lokesh Verma!  
+# 👋 Hi, I'm Lokesh Verma
 
-Hi there! I’m **Lokesh Verma**, a passionate software developer from **India**.  
-I specialize in creating dynamic web applications using modern technologies, with experience in **MERN stack development**, **API integration**, and **database management**.  
+🚀 DevOps & Cloud Engineer in Training | SRE Intern | MERN & Go Developer  
+🔧 Currently building scalable systems with Kubernetes, GitLab CI/CD, Helm, and Grafana.
 
----
+## 🔍 What I'm Working On
+- Automating deployments with Helm & GitLab
+- Monitoring services with Grafana on self-managed K8s clusters
+- Blogging about DevOps, SRE, and startup tech journeys
 
-## 🛠️ Skills  
+## 🛠 Tech Stack
+**Infra & Ops**: Kubernetes, Docker, GitLab CI/CD, Cloudflare, Helm, Grafana  
+**Backend**: Go, Node.js, Express  
+**Frontend**: React, TailwindCSS  
+**Database**: PostgreSQL, MongoDB  
+**Other**: Tailscale, Nginx, Prometheus
 
-- **Languages:** Python, C++, JavaScript  
-- **Front-End:** HTML, CSS, React.js, Bootstrap  
-- **Back-End:** Node.js, Express.js, REST APIs  
-- **Databases:** MongoDB, MySQL  
-
----
-
-## 📚 Projects  
-
-- **ClassMate:** A MERN stack app for study planning, note-sharing, and forums.  
-- **CampusJunction:** A platform for students to buy/sell goods and hire tutors.  
-
----
-
-## 📫 Connect with Me  
-
-📧 [lokeshv613@gmail.com](mailto:lokeshv613@gmail.com)  
+📬 Reach out → [LinkedIn](https://www.linkedin.com/in/lokesh-vrma/) | [Email](mailto:hello@lokeshverma.tech)
